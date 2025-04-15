@@ -1,0 +1,1 @@
+should just be plug'n'play AFAIK, just python3 <scriptname> and you're good to go 
